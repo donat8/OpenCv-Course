@@ -1,6 +1,6 @@
 # OpenCv-Course
 
-Using some functionality of the OpenCV library.
+Exploring some functionality of the OpenCV library.
 
 ###### Final projects are: 
 - webcam painter: you can pick a colour and draw with it on your webcam screen, essentially colour recognition
